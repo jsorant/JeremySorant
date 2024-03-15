@@ -8,13 +8,10 @@ Ce repository centralise mon travail de vulgarisation autour du Craft, de ses pr
 
 Retrouvez-moi sur [LinkedIn](https://www.linkedin.com/in/jeremy-sorant/) ou lors de rassemblements de la communauté Craft, à Lyon et parfois plus loin ;)
 
-### BDs
+### Mes BDs
 
 - [Découvrez le Craft](BDs/Découvrez%20le%20Craft/Découvez%20le%20Craft.pdf)
-
-### Lectures
-
-- [Ces livres qui m'ont marqué](Readings/README.md)
+- D'autres sont à venir...
 
 ### Katas
 
@@ -26,3 +23,13 @@ Boilerplates :
 - [JS/TS (Vitest & Cucumber)](https://github.com/jsorant/boilerplate-kata-node-ts)
 - [Java](https://github.com/jsorant/boilerplate-kata-java)
 - [C++](https://github.com/jsorant/boilerplate-kata-cpp)
+
+### Software Crafters Lyon
+
+Il s'agit d'une association qui organise plusieurs sessions par mois pour se retrouver et pratiquer.
+
+Calendrier et infos sur [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/).
+
+### Lectures
+
+- [Ces livres qui m'ont marqué](Readings/README.md)
