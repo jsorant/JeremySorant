@@ -1,4 +1,4 @@
-Je suis Jérémmy Sorant, ingénieur logiciel sénior chez [SHODO LYON](https://shodo.io/).
+Je suis Jérémy Sorant, ingénieur logiciel sénior chez [SHODO LYON](https://shodo.io/).
 
 Ce repository centralise mon travail de vulgarisation autour du Craft, de ses pratiques et de ses outils.
 
