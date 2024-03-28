@@ -31,6 +31,7 @@ Il s'agit d'une association qui organise plusieurs sessions par mois pour se ret
 
 Calendrier et infos sur [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/).
 
-### Lectures
+### Ressources
 
-- [Ces livres qui m'ont marqué](Readings/README.md)
+- [Livres](Readings/README.md)
+- [Vidéos et podcasts](Videos%2FREADME.md)
