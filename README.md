@@ -11,6 +11,7 @@ Retrouvez-moi sur [LinkedIn](https://www.linkedin.com/in/jeremy-sorant/) ou lors
 ### Mes BDs
 
 - [Découvrez le Craft](BDs/Découvrez%20le%20Craft/Découvez%20le%20Craft.pdf)
+- [Zoom sur les pratiques du Craft](BDs%2FZoom%20sur%20les%20pratiques%20du%20Craft%2FZoom%20sur%20les%20pratiques%20du%20Craft.pdf)
 - D'autres sont à venir...
 
 ### Katas
